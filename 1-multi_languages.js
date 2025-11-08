@@ -1,7 +1,6 @@
 const firstLine = "C is fun";
 const secondLine = "Python is cool";
-const thirdtLine = "Javascript is amazing";
-
+const thirdtLine = "JavaScript is amazing";
 
 console.log(firstLine);
 console.log(secondLine);
